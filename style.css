@@ -1,0 +1,55 @@
+body{
+
+    
+    padding: 80px;
+   padding-left: 500px;
+    margin: 50px;
+
+}
+
+
+fieldset{
+
+    width: 30px;
+    height: 450px;
+    border-radius: 15px;
+    background: transparent
+    
+}
+
+
+legend{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+
+    color: silver
+}
+
+a{
+    font-size: smaller;
+    color:rgb(145, 31, 177) ;
+    text-decoration: none;
+}
+
+
+div.link{
+
+    text-decoration: none;
+}
+
+
+button{
+
+    width: 235px;
+    height: 40px;
+    background-color: rgb(145, 31, 177);
+    color: white;
+    border-radius: 5px;
+}
+
+h5{
+    color: silver;
+}
